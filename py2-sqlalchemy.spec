@@ -1,4 +1,4 @@
-### RPM external py2-sqlalchemy 0.9.6
+### RPM external py2-sqlalchemy 1.2.11
 ## INITENV +PATH PYTHONPATH %i/${PYTHON_LIB_SITE_PACKAGES}
 
 Source: https://pypi.python.org/packages/source/S/SQLAlchemy/SQLAlchemy-%realversion.tar.gz

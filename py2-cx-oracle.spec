@@ -1,9 +1,8 @@
-### RPM external py2-cx-oracle 5.2.1
+### RPM external py2-cx-oracle 6.4.1
 ## INITENV +PATH PYTHONPATH %i/${PYTHON_LIB_SITE_PACKAGES}
 %define downloadn cx_Oracle
 
 Source: https://pypi.python.org/packages/source/c/cx_Oracle/cx_Oracle-%realversion.tar.gz
-Patch: py2-cx-oracle-pingbreak
 
 Requires: python oracle oracle-env
 
